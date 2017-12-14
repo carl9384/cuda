@@ -10,7 +10,8 @@ PyCUDA framework provides complete CUDA functionality, however this may require 
 https://documen.tician.de/pycuda/
 
 ### Parallel for all NVIDIA blog (Excellent)
-Excellent discussion of various parallel programming concepts, problems, and solutions.
+NVIDIA blog with excellent discussion of various parallel programming concepts, bottlenecks, and optimizationss.
+https://devblogs.nvidia.com/parallelforall/efficient-matrix-transpose-cuda-cc/
 https://devblogs.nvidia.com/parallelforall/using-shared-memory-cuda-cc/
 
 ### Optimizing parallel reduction in CUDA (Excellent)
